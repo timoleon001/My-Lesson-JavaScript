@@ -10,4 +10,4 @@ console.log(person.name);
 
 let arr = ['plum.png', 'orage.bmp', 'apple.bmp'];
 
-console.log(arr[1])
+console.log(arr[1]);
