@@ -1,0 +1,19 @@
+const btnStart = document.getElementById('start'),
+      valBudget = document.querySelector('.budget-value'),
+      valDaybudget = document.querySelector('.daybudget-value'),
+      valExpenses = document.querySelector('.expenses-value'),
+      valOptionalexpenses = document.querySelector('.optionalexpenses-value'),
+      valIncome = document.querySelector('.income-value'),
+      valMonthsavings =document.querySelector('.monthsavings-value'),
+      valYearsavings = document.querySelector('.yearsavings-value'),
+      itemExpenses = document.querySelectorAll('.expenses-item'),
+      btnExpenses = document.getElementsByTagName('button'),
+      valOptionalExpenses = document.querySelectorAll('.optionalexpenses-item'),
+      valChooseIncome = document.querySelector('.choose-income')
+      valSavings = document.querySelector('#savings'),
+      valChooseSum = document.querySelector('.choose-sum'),
+      valPercent = document.querySelector('#percent'),
+      valYear = document.querySelector('.year-value'),
+      valMonth = document.querySelector('.month-value'),
+      valDay = document.querySelector('.day-value');
+
