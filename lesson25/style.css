@@ -1,0 +1,11 @@
+.box {
+    margin: 0 auto;
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+    overflow-y: auto;
+    border: 1px solid;
+}
+button {
+    margin: 10px auto;
+}
