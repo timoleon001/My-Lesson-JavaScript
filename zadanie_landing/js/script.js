@@ -130,5 +130,4 @@ window.addEventListener('DOMContentLoaded', function() {
 
     }
     onModal();
-
 });
